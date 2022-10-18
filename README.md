@@ -1,2 +1,2 @@
-# designhubtechnologies
- A digital agency website
+# wheelstechnologies
+ This is a company website
